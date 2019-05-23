@@ -15,16 +15,16 @@ div.product{
 span.buy-button{
     border: 1px solid grey;
     padding: .5em;
-    background-color: aquamarine;
+    background-color: lightgrey;
     position: absolute;
     top: 0px;
     right: 0px;
     cursor: pointer;
-    transition: background-color .3s;
+    transition: background-color .2s;
 }
 
 .buy-button:hover{
-    background-color: rgb(102, 224, 184);
+    background-color: rgb(170, 170, 170);
 }
 
 .fa-shopping-cart{
